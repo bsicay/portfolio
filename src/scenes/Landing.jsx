@@ -20,7 +20,7 @@ const Landing = ({ setSelectedPage }) => {
           >
             <img
               alt="profile"
-              className="hover:filter hover:saturate-200 transition duration-500 z-10 w-full max-w-[400px] md:max-w-[600px]"
+              className="hover:filter hover:saturate-150 transition duration-500 z-10 w-full max-w-[400px] md:max-w-[600px]"
               src="https://cdn.discordapp.com/attachments/717418780065529856/1113846174189899949/Layer_0_copy.png"
             />
           </div>
