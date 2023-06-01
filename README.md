@@ -3,15 +3,18 @@
 
 En este proyecto, se utilizaron las siguientes tecnologías:
 
-![alt text](https://raw.githubusercontent.com/replit/kaboom/be3a93566af6e14f1b927e64eb3fe4249e5d3a3c/kaboom.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="180" height="150"> 
 
-React.js: Un motor de juegos JavaScript fácil de     usar y basado en lienzo que simplifica el desarrollo de juegos 2D, utilizado para el Front-End.
+React.js: Biblioteca de JS para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página
 
-![alt text](https://icons.veryicon.com/png/128/business/vscode-program-item-icon/javascript-3.png)
-- Tailwind: Un lenguaje de programación ampliamente utilizado tanto para el frontend como para el backend, utilizado para el Back-End.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="180" height="150"> 
 
-<img src="https://createjs.com/docs/tweenjs/assets/docs-icon-TweenJS.png" width="210" height="120"> 
--  Framer-Motion: Una biblioteca JavaScript para crear animaciones suaves y fluidas.
+- Tailwind: Framework CSS que nos proporciona clases de utilidad de un solo propósito
+
+
+<img src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" width="210" height="120"> 
+
+-  Framer-Motion: Una biblioteca de animación para crear animaciones declarativas en React. biblioteca JavaScript para crear animaciones suaves y fluidas.
  
 
 ## Requisitos 📋
