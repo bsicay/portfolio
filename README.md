@@ -22,7 +22,6 @@ React.js: Biblioteca de JS para crear interfaces de usuario con el objetivo de f
 - Tener un editor de códogo (Recomendado VIsualStudio Code)
 - Tener NODE en conjunto npm instalado
 - Acceso a un navegador web
-- Tener instalado kaboom.js
 
 ## Instalación  🔧
 
